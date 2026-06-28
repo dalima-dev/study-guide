@@ -1,0 +1,71 @@
+## Contexto
+
+Irei ministrar aulas em disciplinas de exatas na UFPE para o primeiro período dos cursos de engenharia e matemática.
+Estando consciente da dificuldade de alunos com essas disciplinas devido à péssima qualidade de ensino das escolas,
+quero propor um guia com instruções práticas de como obter sucesso no primeiro período (e até mesmo nos períodos posteriores)
+em estudar, aprender e obter bons resultados nas provas.
+
+## User Prompt
+
+- Monte um guia de como obter sucesso nas disciplinas de exatas **escrito em LaTeX** usando tamanho de papel A4.
+- Estruture o guia de acordo com os tópicos abaixo respeitando a enumeração. Não precisa numerar cada tópico no guia.
+- Dê um título ao guia e um breve contexto de seu propósito de acordo com seus tópicos.
+- Corrija, complemente e desenvolva mais alguns pontos se julgar necessário. Preserve a citação final exatamente como está e mantenha a estrutura metodológica do tópico 5; você tem liberdade para melhorar clareza e concisão dos demais tópicos.
+- Tom: direto, motivador, sem soar condescendente; linguagem acessível para quem está saindo do ensino médio.
+- Ajuste os conteúdos dos tópicos para caber em no máximo duas páginas:
+    - Na página 1 deve conter os tópicos: 1, 2, 3 e 4.
+    - Na página 2 deve conter o tópico 5 e a citação final. Ajuste fonte/espaçamento/margens para caber.
+- Coloque a imagem em anexo acima da citação final pois a imagem representa o que está sendo dito na citação.
+
+## Tópicos
+
+1. Identidade e Propósito
+    Entrar na universidade é muito mais do que escolher um curso; é iniciar uma jornada de construção pessoal. Nem sempre a primeira escolha será a perfeita, e isso faz parte da vida. O importante é não caminhar sem saber quem você é e por que está fazendo o que faz. Quando as provas ficarem difíceis, o cansaço aparecer e as dúvidas surgirem, será o seu propósito que dará sentido ao esforço. E será a sua identidade que impedirá que você desista diante das dificuldades. Quem conhece sua identidade e vive com propósito segue firme até atingir seus objetivos.
+
+2. Disciplina
+    Aqui vão algumas dicas-chave de disciplina para que você aguente a semana com energia, foco e saúde. Extremamente necessário para bom
+    desempenho de estudos e reduzir chance de ocorrer transtornos como por exemplo uma gripe em dia de prova.
+
+    - Boa alimentação: Coma bastante legumes, salada e proteína.
+    - Dormir cedo e ter cerca de 7 a 9 horas de sono.
+    - Exercício físico pelo menos 3x na semana (recomendo corrida e/ou musculação)
+    - Estudo diário consistente, mesmo que poucas horas.
+    - Evitar distrações: Se você perceber que algo está tirando sua atenção, afaste-se dele durante o estudo.
+
+3. Construa uma base forte
+    Antes de construir um edifício, é preciso garantir que seus alicerces sejam sólidos. Na universidade acontece o mesmo. Disciplinas como Cálculo, Geometria Analítica, Álgebra Linear e Física exigem uma base consistente em matemática básica. Se essa base apresenta lacunas, não encare isso como um motivo para desistir, mas como um chamado para fortalecê-la. Dedique tempo aos pré-requisitos, revise conteúdos sempre que necessário e não tenha vergonha de voltar alguns passos para avançar com segurança. O aprendizado em Exatas é cumulativo: cada novo conceito se apoia no anterior. Investir na sua base hoje é o que permitirá alcançar resultados cada vez melhores ao longo de toda a sua trajetória acadêmica.
+
+4. Como estudar seguindo as aulas
+    - Anotar apenas os pontos importantes para não perder atenção na aula.
+    - Perguntar sempre que houver dúvida.
+    - Durante o dia, após a aula, revisar todo conteúdo passado e resolver os exemplos dados em aula.
+    - Ter um livro de apoio recomendado pelo professor para estudar por conta própria.
+
+5. Caderno de guerra
+    Venho propor aqui uma maneira de estudar de maneira eficiente qualquer assunto em matemática. Você vai precisar de um livro texto e um caderno (de guerra) para anotar tudo que julgar importante no seu aprendizado. Este vai ser um caderno que você deverá revisitar sempre que a memória começar lhe trair. Assim, você será capaz de reter conhecimento e habilidades a longo prazo.
+
+    Siga os passos abaixo na ordem.
+
+    1. Leitura do conteúdo
+        Ao começar ler um novo capítulo ou seção do livro, repita os seguintes passos abaixo antes de ir pro próximo.
+            1.a Verificar detalhes omitidos nas explicações, exemplos e demonstrações.
+            1.b Reescrever definições e teoremas.
+            1.c Refazer demonstrações (as fáceis) de memória até onde conseguir.
+    2. Seleção de exercícios
+        Escolha exercícios que satisfaçam um dos critérios abaixo:
+            2.a A primeira ideia de ataque não é óbvia.
+            2.b Requer construção de algum objeto matemático (função, matriz, vetor, etc.). Em particular, encontrar exemplos ou contraexemplos.
+    3. Estratégia de ataque a exercícios
+        3.a Entender o enunciado com todas suas hipóteses e o que se pede.
+        3.b Realizar um plano de ataque.
+        3.c Se o plano falhar, tente outro. Repita esse processo em até uma hora (tempo limite).
+            Obs: Caso o exercício não for resolvido anote o ponto (ou motivo) onde travou e se puder deixar a primeira pista que parece útil. Retorne à questão depois (pode ser alguns dias, ou até mesmo semanas).
+    4. Criar exercícios para desenvolver criatividade
+        Recrie exercícios parecidos com o que você já fez alterando hipóteses, construindo funções, trocando constantes, etc. Dessa maneira você está dominando o conteúdo.
+
+    Sei que muitos não vão ter tempo o suficiente para cumprir os pontos acima à risca sempre. Mas estes pontos ficam de referência quando se deseja dominar um conteúdo por completo.
+
+## Citação final
+
+O homem não pode reconstruir-se sem sofrimento, pois ele é ao mesmo tempo o mármore e o escultor.
+Alexis Carrel
